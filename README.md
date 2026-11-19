@@ -48,4 +48,4 @@ The models are evaluated using:
 The trained model predicts estimated medical insurance costs for new individuals.
 
 ## Author
-Nandhashri N
+Nandha Shri N

@@ -1,9 +1,7 @@
-# Medical-Insurance-Cost-Prediction
-Medical insurance cost prediction using Machine Learning algorithms
-
 # Medical Insurance Cost Prediction Using Machine Learning
 
 ## Project Overview
+
 This project predicts medical insurance costs based on individual details using Machine Learning regression algorithms.
 
 ## Dataset
